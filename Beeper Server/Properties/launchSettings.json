@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Beeper Server": {
+      "commandName": "Project"
+    },
+    "Beeper Server - Verbose": {
+      "commandName": "Project",
+      "commandLineArgs": "-v"
+    },
+    "Beeper Server - Debug": {
+      "commandName": "Project",
+      "commandLineArgs": "-d"
+    }
+  }
+}

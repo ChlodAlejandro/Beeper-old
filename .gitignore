@@ -1,0 +1,12 @@
+packages/ 
+Logos/ 
+.vs/ 
+
+Beeper Console Client/bin
+Beeper Console Client/obj
+
+BeeperCore/bin
+BeeperCore/obj
+
+Beeper Server/bin
+Beeper Server/obj
